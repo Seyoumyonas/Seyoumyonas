@@ -1,4 +1,4 @@
-# Yonas Seyoum
+
 <!--
 **Seyoumyonas/Seyoumyonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,5 +30,8 @@ Here are some ideas to get you started:
 
   ### TECHNICAL SKILLS
   -Programming languages : Java, C++, SQL, Python, C
+
   -Framework: Spring framework, Spring Boot.
+  
   -Developer Tools: Git , Git Kraken.
+
