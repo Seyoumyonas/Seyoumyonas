@@ -16,22 +16,40 @@ Here are some ideas to get you started:
 
 # Yonas Seyoum
 
- <a href="https://github.com/Seyoumyonas"> Github Profile</a>
-  
- [text for link](URL)
- [Github Profile](https://github.com/Seyoumyonas)
-  
-  ## Skils 
-  - Web dev 
-  - Generative AI
-  
-  ## Current Project 
-  - Vision-Based Models for Crop Disease and Weed Detection with a Generative AI-Driven RAG System for Farmer Support
+🚀 About Me
 
-  ### TECHNICAL SKILLS
-  -Programming languages : Java, C++, SQL, Python, C
+I'm a passionate Web Developer and Generative AI Enthusiast, currently pursuing my senior year at Eastern Washington University. My interests are focused on Generative AI, Machine Learning, and Web Development, aiming to bridge the gap between cutting-edge AI technology and practical applications in various domains.
 
-  -Framework: Spring framework, Spring Boot.
-  
-  -Developer Tools: Git , Git Kraken.
+🌟 Current Project
+Vision-Based Models for Crop Disease and Weed Detection
 
+Utilizing Generative AI and Retrieval-Augmented Generation (RAG) systems to build intelligent solutions for farmer support, enhancing agricultural productivity and sustainability through innovative tech.
+
+
+🛠️ Technical Skills
+Programming Languages
+
+    Java
+    C++
+    Python
+    SQL
+    C
+
+Frameworks & Tools
+
+    Spring Framework
+    Spring Boot
+    Git / GitKraken
+
+Developer Platforms
+
+    Docker
+    MongoDB
+    Streamlit
+
+💡 Interests & Expertise
+
+    Generative AI
+    Machine Learning
+    Natural Language Processing
+    Web Development
