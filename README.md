@@ -13,3 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Yonas Seyoum
+
+ <a href="https://github.com/Seyoumyonas"> Github Profile</a>
+  
+ [text for link](URL)
+ [Github Profile](https://github.com/Seyoumyonas)
+  
+  ## Skils 
+  - Web dev 
+  - Generative AI
+  
+  ## Current Project 
+  - Vision-Based Models for Crop Disease and Weed Detection with a Generative AI-Driven RAG System for Farmer Support
+
+  ### TECHNICAL SKILLS
+  -Programming languages : Java, C++, SQL, Python, C
+  -Framework: Spring framework, Spring Boot.
+  -Developer Tools: Git , Git Kraken.
