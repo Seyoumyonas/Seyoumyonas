@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Yonas Seyoum
+https://www.linkedin.com/in/yonas-seyoum/
 
 🚀 About Me
 
@@ -25,7 +26,7 @@ Vision-Based Models for Crop Disease and Weed Detection
 
 Utilizing Generative AI and Retrieval-Augmented Generation (RAG) systems to build intelligent solutions for farmer support, enhancing agricultural productivity and sustainability through innovative tech.
 
-https://www.linkedin.com/in/yonas-seyoum/
+
 
 🛠️ Technical Skills
 Programming Languages
