@@ -19,7 +19,7 @@ https://www.linkedin.com/in/yonas-seyoum/
 
 🚀 About Me
 
-I'm a passionate Web Developer and Generative AI Enthusiast, currently pursuing my senior year at Eastern Washington University. My interests are focused on Generative AI, Machine Learning, and Web Development, aiming to bridge the gap between cutting-edge AI technology and practical applications in various domains.
+ currently pursuing my senior year at Eastern Washington University. My interests are focused on Generative AI, Machine Learning, and Web Development, aiming to bridge the gap between cutting-edge AI technology and practical applications in various domains.
 
 🌟 Current Project
 Vision-Based Models for Crop Disease and Weed Detection
@@ -31,11 +31,7 @@ Utilizing Generative AI and Retrieval-Augmented Generation (RAG) systems to buil
 🛠️ Technical Skills
 Programming Languages
 
-    Java
-    C++
-    Python
-    SQL
-    C
+    Java ,C++ ,Python ,SQL,  C
 
 Frameworks & Tools
 
