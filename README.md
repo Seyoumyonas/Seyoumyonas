@@ -31,18 +31,15 @@ Utilizing Generative AI and Retrieval-Augmented Generation (RAG) systems to buil
 🛠️ Technical Skills
 Programming Languages
 
-    Java ,C++ ,Python ,SQL,  C
+    Python, Java ,,SQL, C++ , C
 
 Frameworks & Tools
 
-    Spring Framework
-    Spring Boot
-    Git / GitKraken
+    Spring Framework  Spring Boot Git / GitKraken
 
 Developer Platforms
 
-    Docker
-    MongoDB
+ 
     Streamlit
 
 💡 Interests & Expertise
